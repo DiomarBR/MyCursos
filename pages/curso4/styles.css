@@ -63,8 +63,9 @@ li:hover{
 }
 .container iframe {
     margin: 15px;
-    width: 95%;
-    height: 95%;
+    width: 86%;
+    height: 95vh;
+    position: fixed;
     border-radius: 10px;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
